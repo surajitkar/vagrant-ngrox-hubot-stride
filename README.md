@@ -1,0 +1,1 @@
+# vagrant-ngrox-hubot-stride
